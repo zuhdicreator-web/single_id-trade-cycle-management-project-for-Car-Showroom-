@@ -1,0 +1,1 @@
+ini adalah project yang saya kerjakan menggunakan jupyter notebook. saya menganalisa data sales dan after sales showroom mobil untuk di integrasikan datanya agar mendapatkan insight yang sangat berharga, terutama dalam maintenance customer. selain itu, project ini akan memberikan advantage bagi internal cabang dalam mengelola performance penjualan mereka. 
